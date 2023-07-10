@@ -1,14 +1,14 @@
 # One-click-Pick
 An E-commerce website:  
 
-#Technologies used:  
+# Technologies used:  
 * HTML
 * CSS
 * Bootstrap
 * Django
 * Python
 
-#Key Features:  
+# Key Features:  
 * User can view all the products and can add items to the cart.
 * User can place an order by making a corresponding payment through Paytm.
 * User can also track their order by entering the order ID and user authentications.
